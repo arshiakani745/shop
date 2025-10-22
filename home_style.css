@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'iran';
-  src: url('iran.ttf') format('ttf');
+  src: url('iran.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
@@ -8,6 +8,7 @@
 body {
   font-family: 'iran';
 }
+
 
 
 
@@ -358,5 +359,6 @@ footer .bottom {
   padding: 15px;
   color: rgba(255, 255, 255, 0.9);
 }
+
 
 
