@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'iran';
-  src: url('iran.ttf') format('truetype');
+  src: url('https://raw.githubusercontent.com/username/repo/main/iran.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
@@ -359,6 +359,7 @@ footer .bottom {
   padding: 15px;
   color: rgba(255, 255, 255, 0.9);
 }
+
 
 
 
